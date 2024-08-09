@@ -1,0 +1,33 @@
+/* Style for all links */
+  /*HOME*/
+
+a {
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 10px;
+  text-decoration: none;
+  color: #ffffff; /* Text color */
+  background-color: #007bff; /* Link background color */
+  border-radius: 5px; /* Rounded corners */
+  border: 2px solid #007bff; /* Border color */
+  text-align: center;
+}
+
+/* Hover effect */
+a:hover {
+  background-color: #0056b3; /* Darker background color on hover */
+}
+
+/* Optional: Add more specific styles for each link if needed */
+/* For example: */
+/*
+a[href="RegistrationView.html"] {
+  /* Specific styles for the "Register here" link */
+
+
+a[href="LoginView.html"] {
+  /*
+  /*REGISTRATION*/
+  /* Style for form input fields */
+  
+}
